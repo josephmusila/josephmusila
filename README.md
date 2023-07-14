@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @josephmusila
 - 👀 I’m interested in  Flutter, Django, NodeJs and IOT
 <!-- - 🌱 I’m currently learning ... -->
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on flutter projects
 - 📫 How to reach me email @ josemusila03@gmail.com
 
 <!---
